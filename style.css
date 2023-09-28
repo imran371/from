@@ -1,0 +1,27 @@
+body{
+    background-color: blueviolet;
+}
+#from{
+    background-color: #ece7e7;
+    width: 25%;
+    margin: 120px auto;
+    padding: 50px;
+    box-shadow: 10px 10px 5px rgb(82,11,77);
+    border: radius 6px;
+}
+#btn{
+    color: #ebe6e6;
+    background-color: #fa40b3;
+    padding: 10px;
+    font-size:large;
+    border-radius: 10px;
+
+}
+@media screen and ( max-width:700px){
+    #from{
+        width: 65%;
+        padding: 40px;
+    }
+
+    
+}
